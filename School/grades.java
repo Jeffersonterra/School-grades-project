@@ -8,7 +8,7 @@ public class grades {
         Stack<String> stack = new Stack<String>();
         Scanner in = new Scanner(System.in);
         Scanner sc = new Scanner(System.in);
-        String placeHold = ("");
+
         int z = 1;
         do {
             System.out.println("Would you like add a new student? Chose 1 for yes or 0 for no : ");
