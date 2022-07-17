@@ -17,7 +17,6 @@ public class grades {
         do {
             System.out.println("Would you like add a new student? Chose 1 for yes or 0 for no : ");
             z = in.nextInt();
-            // sc.nextLine();
             System.out.println("Student name: ");
 
             String placeHolder = sc.nextLine();
