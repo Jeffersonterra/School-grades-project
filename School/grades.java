@@ -26,9 +26,14 @@ public class grades {
 
             String gradeA = sc.nextLine();
             grade.push(gradeA);
+            //Grade 2
             System.out.println("Student grade 2: ");
             String gradeB = sc.nextLine();
             grade.push(gradeB);
+            
+             System.out.println("Student grade 3: ");
+            String gradeC = sc.nextLine();
+            grade.push(gradeC);
 
         } while (z != 0);
         System.out.println("The list is : ");
