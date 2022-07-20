@@ -30,7 +30,7 @@ public class grades {
             System.out.println("Student grade 2: ");
             String gradeB = sc.nextLine();
             grade.push(gradeB);
-            
+            //Grade 3
              System.out.println("Student grade 3: ");
             String gradeC = sc.nextLine();
             grade.push(gradeC);
